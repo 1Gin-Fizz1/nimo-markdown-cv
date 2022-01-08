@@ -4,13 +4,9 @@ title: 史震宇
 email:
   url: zhenyushicocktail@gmai.com
   text: zhenyushicocktail@gmai.com
-email:
-  url: 617818765@qq.com
-  text: 617818765@qq.com
 ---
 
 # 史震宇
-## zhenyu **shi**
 
 <!--
 include contact information from the front matter

@@ -2,14 +2,15 @@
 layout: cv
 title: 史震宇
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: zhenyushicocktail@gmai.com
+  text: zhenyushicocktail@gmai.com
+email:
+  url: 617818765@qq.com
+  text: 617818765@qq.com
 ---
 
-# Wode **Ni**
+# 史震宇
+## zhenyu **shi**
 
 <!--
 include contact information from the front matter
